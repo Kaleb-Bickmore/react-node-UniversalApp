@@ -1,0 +1,19 @@
+{
+  "name": "universalapp",
+  "version": "1.0.0",
+  "description": "Universal app using reactJs and node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/Kaleb-Bickmore/react-node-UniversalApp"
+  },
+  "author": "Kaleb Bickmore",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.5.4",
+    "webpack": "^2.5.0"
+  }
+}
